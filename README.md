@@ -3,6 +3,7 @@ Discrete optimisation <br>
 My python code for discrete optimisation, course on coursera: https://class.coursera.org/optimization-003/ <br>
 For me it was one of the first python courses and i liked it a lot. <br>
 Tasks, problems sets and my solution you can find in appropriate folders. <br>
+
 Marks: <br>
 Knapsack: <br>
  Problem 1	10 / 10   value: 99798		<br>
