@@ -5,7 +5,7 @@ For me it was one of the first python courses and i liked it a lot.
 Tasks, problems sets and my solution you can find in appropriate folders.
 Marks:
 Knapsack:
- Problem 1	10 / 10   value: 99798		
+ Problem 1	10 / 10   value: 99798		<br>
  Problem 2  10 / 10	  value: 142156
  Problem 3	10 / 10		value: 100236
  Problem 4	 7 / 10		value: 3966813 - were too big files for my RAM, so i used another method
